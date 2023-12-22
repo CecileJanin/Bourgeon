@@ -1,0 +1,9 @@
+/dts-v1/;
+
+#include "imx6q.dtsi"
+#include "imx6q-bourgeon.dtsi"
+
+/ {
+	model = "Sylphys i.MX6Q Developpement Board Bourgeon";
+	compatible = "fsl,imx6q";
+};
