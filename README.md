@@ -5,6 +5,7 @@ This project has been realised for learning purposes only.
 
 _**A developpement board is functionnal, after applying hardware patches.**_
 
+![bourgeon](img.png)
 
 ## Hardware specification
 
