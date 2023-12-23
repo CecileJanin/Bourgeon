@@ -29,6 +29,8 @@ _**A developpement board is functionnal, after applying hardware patches.**_
 
 ## Software
 
+Check boot log file for more detais.
+
 #### Boot
 
 This board uses [u-boot](https://www.denx.de/project/u-boot/), the sources files will be available in src/uboot.
