@@ -53,12 +53,16 @@ Working and tested :
 ## Errata
 
 Criticity level :
+
 1 - Board can't work at all - critical
+
 2 - Board function non-operational
+
 3 - Board or board function must be improved
+
 4 - Minor modification needed
 
-- 1 p7 : Differential main ram clock signals DRAM_CLKO_N inverted (yes, for the third time)
+- 1 p7 : Differential main ram clock signals DRAM_CLKO_N inverted 
 - 1 global : No boot at ambient temparture, but work perfectly after a warm-up time (1min). Cold boot work (-10°C), but board hangs when the temperature is near 20°C 
 - 2 p16 : UART TxD and RxD inverted, debug UART can't work properly
 - 2 p16/p5 : USB D+ and D- pin inverted, debug UART can't work properly
