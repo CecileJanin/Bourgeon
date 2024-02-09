@@ -47,7 +47,8 @@ Working and tested :
 - USB Host
 - USB debug
 - SD card slot
-- Ethernet (but not standard)
+- Ethernet 10/100/1000BASE-T
+- Audio codec SGTL500 
 - And some miscellaneous function like DVFS, etc...
 
 ## Errata
